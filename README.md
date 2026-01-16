@@ -6,9 +6,13 @@ I’m excited to share my latest project – a web-based Number Guessing Game bu
 🔹 Number range: 1–100
 
 🔹 10 attempts with smart hints (Too High / Too Low)
+
 🔹 Previous guesses tracking
+
 🔹 Continuous gameplay
+
 🔹 Gaming-themed UI
+
 🔹 Apache server (CGI)
 
 This project helped me understand server-side programming, CGI, and state management using file handling.
