@@ -4,6 +4,7 @@
 I’m excited to share my latest project – a web-based Number Guessing Game built using C++ (CGI) for backend logic and HTML & CSS for frontend design.
 
 🔹 Number range: 1–100
+
 🔹 10 attempts with smart hints (Too High / Too Low)
 🔹 Previous guesses tracking
 🔹 Continuous gameplay
